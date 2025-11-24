@@ -1,0 +1,8 @@
+{
+  "name": "socialpulse-backend-shim",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server/index.js"
+  }
+}
